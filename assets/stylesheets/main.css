@@ -3,6 +3,8 @@ body {
     background-image: url("../image/bg.jpg");
     background-color: #fff;
     font-family: "Times New Roman", Times, serif;
+    background-repeat: repeat;
+    font-size: 20px;
 }
 
 .container {
@@ -16,7 +18,7 @@ body {
 }
 
 .container .published_papers ul {
-	width: 550px;
+	width: 100%;
     margin: 0 auto;
 }
 
@@ -30,6 +32,6 @@ body {
 }
 
 .container .photo img {
-	width: 80px;
-	height: 90px;
+	width: 120px;
+    height: 140px;
 }
