@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doctorfan-prod-104040-authRole",
+      "UnauthRoleArn": "arn:aws:iam::078927761682:role/amplify-doctorfan-prod-104040-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::078927761682:role/amplify-doctorfan-prod-104040-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-doctorfan-prod-104040-deployment",
+      "UnauthRoleName": "amplify-doctorfan-prod-104040-unauthRole",
+      "StackName": "amplify-doctorfan-prod-104040",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:078927761682:stack/amplify-doctorfan-prod-104040/b469b860-7bb0-11eb-bbef-066758aba1fe",
+      "AmplifyAppId": "dnzbq3oua4u4i"
+    }
+  }
+}
