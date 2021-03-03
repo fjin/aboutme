@@ -10,6 +10,11 @@
       "StackName": "amplify-doctorfan-prod-104040",
       "StackId": "arn:aws:cloudformation:ap-southeast-2:078927761682:stack/amplify-doctorfan-prod-104040/b469b860-7bb0-11eb-bbef-066758aba1fe",
       "AmplifyAppId": "dnzbq3oua4u4i"
+    },
+    "categories": {
+      "auth": {
+        "doctorfan": {}
+      }
     }
   }
 }
